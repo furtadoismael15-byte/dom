@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    height: 0;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(221, 166, 14);
+    padding: 5em;
+    text-align: center;
+    color: white;
+}
+
+.caixa {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+#btnMulher {
+    background-color: rgb(245, 165, 221);
+    padding: 1em;
+    color: white;
+
+}
+
+#btnHomem {
+    background-color: rgb(13, 105, 26);
+    padding: 1em;
+    color: white;
+}
+
+.caixa__a {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
